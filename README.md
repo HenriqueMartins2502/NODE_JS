@@ -1,10 +1,10 @@
  # Boilerplate Typescript / NodeJs
- # Desenvolvido para ajudar outros devs na agilidade de seu código Typescript / NodeJs.
+ ## Desenvolvido para ajudar outros devs na agilidade de seu código Typescript / NodeJs.
 
- # É muito simples de utilizar, basta clonar o projeto e instalar as dependências:
+ ## É muito simples de utilizar, basta clonar o projeto e instalar as dependências:
 
-  // Install
-    npm i
+  ### Install
+    ```npm i```
 
   // Run Dev
     npm run start:dev
