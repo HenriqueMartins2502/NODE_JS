@@ -6,26 +6,27 @@
   ### Install
     npm i
 
-  // Run Dev
+  ### Run Dev
     npm run start:dev
 
-  // Run Build
+  ### Run Build
     npm run build
 
-  // Run Prod
+  ### Run Prod
     npm run start
 
-  // Run Prettier
+  ### Run Prettier
     npm run prettier
 
-  // Run Eslint
+  ### Run Eslint
     npm run eslint
 
-  // Run Jest ( test )
+  ### Run Jest ( test )
     npm run test
 
-  // Run Jest ( test CI )
+  ### Run Jest ( test CI )
     npm run test:ci
+    
 Conteúdo do repositório:
 Typescript com NodeJS
 Prettier
@@ -34,8 +35,8 @@ Jest
 Typescript com NodeJS
 Foi desenvolvido uma aplicação NodeJs utilizando Typescript como base.
 
-  // Typescript
-  npm i -D typescript @types/node tsx tsup
+  ### Typescript
+  ```npm i -D typescript @types/node tsx tsup```
 Prettier
 O Prettier é uma ferramenta de formatação de código que ajuda a manter a consistência e a legibilidade do código em projetos de desenvolvimento de software.
 
