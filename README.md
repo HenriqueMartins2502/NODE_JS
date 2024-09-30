@@ -4,7 +4,7 @@
  ## É muito simples de utilizar, basta clonar o projeto e instalar as dependências:
 
   ### Install
-    ``` npm i
+    npm i
 
   // Run Dev
     npm run start:dev
